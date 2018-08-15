@@ -12,3 +12,10 @@ function sumClick(){
 }
 
 sumClick();
+
+/*
+
+Step 1 isn't working. It looks like it's because your button ID has a space in it.
+
+From Kenn
+*/
